@@ -1,0 +1,1 @@
+[{"id":1,"model":"Ford","createYear":[2006,1,1],"price":15000.0,"winCode":"15"},{"id":2,"model":"Opel","createYear":[2012,1,1],"price":20000.0,"winCode":"12"},{"id":3,"model":"Galant","createYear":[2007,1,1],"price":5000.0,"winCode":"1"},{"id":4,"model":"Tesla","createYear":[2018,1,1],"price":5000.0,"winCode":"trt"}]
